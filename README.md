@@ -1,16 +1,19 @@
 
 <div align="center">
 
-<img src=".Caça Gripen pixel art brasileiro.png" width="100%" alt="Caça militar em voo — aviação brasileira" />
+  <img src="./banner-gripen.png" width="100%" alt="Arte de aviação militar brasileira" />
 
-<br>
+  <br>
 
-# `MATHEUS GONÇALVES`
+  <h1>MATHEUS GONÇALVES</h1>
 
-**TECNOLOGIA · AVIAÇÃO · PROGRAMAÇÃO**
+  <p>
+    <strong>DESENVOLVEDOR EM FORMAÇÃO</strong><br>
+    Programação • Tecnologia • Aviação
+  </p>
 
-Estudante de programação na **UNIVAP — Unidade Centro**  
-São José dos Campos — SP 🇧🇷
+  <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-657C45?style=for-the-badge&labelColor=171B16" />
+  <img src="https://img.shields.io/badge/FOCO-LÓGICA%20DE%20PROGRAMAÇÃO-657C45?style=for-the-badge&labelColor=171B16" />
 
 </div>
 
@@ -18,84 +21,96 @@ São José dos Campos — SP 🇧🇷
 
 ## `01 // PERFIL`
 
-Estudante de programação interessado em tecnologia, engenharia e aviação militar brasileira. Busco desenvolver uma base técnica sólida, evoluir com a prática e explorar, futuramente, aplicações de software na área aeronáutica.
+Sou um desenvolvedor em formação, estudando programação e
+construindo minha base por meio de exercícios e projetos pessoais.
 
-| INFORMAÇÃO | DETALHES |
-|---|---|
-| Área | Desenvolvimento de software |
-| Formação | UNIVAP — Unidade Centro |
-| Localização | São José dos Campos, SP |
-| Interesses | Programação, aviação e engenharia |
+Meu foco atual é desenvolver o raciocínio lógico, compreender
+estruturas de dados e aprender a escrever códigos cada vez melhores.
+
+Tenho interesse em tecnologia, sistemas e aviação.
+
+---
 
 ## `02 // TECNOLOGIAS`
 
-<div align="center">
-
 ### EM ESTUDO
 
-<img src="https://skillicons.dev/icons?i=c,cs&theme=dark" alt="C e C#" />
+<p>
+  <img src="https://img.shields.io/badge/C-EM%20ESTUDO-A8C686?style=for-the-badge&logo=c&logoColor=111111" />
+  <img src="https://img.shields.io/badge/C%23-EM%20ESTUDO-A8C686?style=for-the-badge&logo=csharp&logoColor=111111" />
+</p>
 
-<br>
-
-<img src="https://img.shields.io/badge/C-EM%20ESTUDO-34452A?style=flat-square&logo=c&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/C%23-EM%20ESTUDO-34452A?style=flat-square&logo=csharp&logoColor=FFFFFF" />
-
-</div>
+### OUTRAS TECNOLOGIAS
 
 <details>
-<summary><strong>Outras linguagens e tecnologias — carregando...</strong></summary>
+  <summary><strong>▸ Abrir tecnologias em carregamento</strong></summary>
 
-<br>
+  <br>
 
-```text
-C++             [ CARREGANDO... ]
-JavaScript      [ CARREGANDO... ]
-Python          [ CARREGANDO... ]
-Java            [ CARREGANDO... ]
-BANCO DE DADOS  [ CARREGANDO... ]
-NOVAS TECNOLOGIAS [ EM APRENDIZADO ]
-```
-
-Essas áreas representam conhecimentos a explorar ou aprofundar, não competências já dominadas.
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cpp" width="42" alt="C++" /><br>
+        <strong>C++</strong><br>
+        <sub>CARREGANDO...</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript" /><br>
+        <strong>JavaScript</strong><br>
+        <sub>CARREGANDO...</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" width="42" alt="Python" /><br>
+        <strong>Python</strong><br>
+        <sub>CARREGANDO...</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=java" width="42" alt="Java" /><br>
+        <strong>Java</strong><br>
+        <sub>CARREGANDO...</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" width="42" alt="MySQL" /><br>
+        <strong>MySQL</strong><br>
+        <sub>CARREGANDO...</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git" width="42" alt="Git" /><br>
+        <strong>Git</strong><br>
+        <sub>CARREGANDO...</sub>
+      </td>
+    </tr>
+  </table>
 
 </details>
 
+---
+
 ## `03 // PLANO DE EVOLUÇÃO`
 
-- [ ] Fortalecer a lógica de programação.
-- [ ] Aprofundar os fundamentos de C e C#.
-- [ ] Desenvolver projetos próprios.
-- [ ] Melhorar a organização e a qualidade do código.
-- [ ] Explorar aplicações de software na engenharia aeronáutica.
+- [x] Iniciar os estudos de programação em C
+- [x] Iniciar os estudos de C#
+- [ ] Praticar lógica de programação
+- [ ] Melhorar a organização do código
+- [ ] Desenvolver projetos pessoais
+- [ ] Aprender estruturas de dados
+- [ ] Estudar controle de versão com Git
+
+---
 
 ## `04 // PRINCÍPIOS`
 
+- **DISCIPLINA:** manter a constância nos estudos.
+- **EVOLUÇÃO:** aprender com erros e desafios.
+- **ORGANIZAÇÃO:** escrever código legível e estruturado.
+- **PRÁTICA:** transformar conhecimento em projetos.
+
+---
+
+## `05 // REPOSITÓRIOS`
+
 <div align="center">
 
-| DISCIPLINA | CONHECIMENTO | TECNOLOGIA | BRASIL |
-|:---:|:---:|:---:|:---:|
-| Foco no processo | Aprendizado contínuo | Soluções reais | Orgulho e propósito |
-
-</div>
-
-## `05 // BASE DE OPERAÇÕES`
-
-<div align="center">
-
-<a href="https://github.com/mgsilvac01-sketch?tab=repositories">
-  <img src="https://img.shields.io/badge/ACESSAR_REPOSIT%C3%93RIOS-263729?style=for-the-badge&logo=github&logoColor=B8CE96" alt="Acessar repositórios" />
-</a>
-
-<br><br>
-
-```text
-> MISSÃO  : APRENDER
-> MÉTODO  : ESTUDAR • PRATICAR • EVOLUIR
-> STATUS  : EM ANDAMENTO_
-```
-
-<br>
-
-**TECNOLOGIA COM PROPÓSITO. BRASIL SEMPRE. 🇧🇷**
-
-</div>
+  <a href="https://github.com/mgsilvac01-sketch?
