@@ -1,88 +1,104 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0B120C&text=DEV%20%7C%20AERONAUTICA&fontColor=9DBB75&fontSize=38&fontAlignY=45&desc=DISCIPLINA%20%7C%20LOGICA%20%7C%20EVOLUCAO&descSize=13&descAlignY=65&stroke=526B3B&strokeWidth=1" />
+<img src="./assets/banner-caca.gif" width="100%" alt="Caça militar em voo — aviação brasileira" />
 
-### `> INICIALIZANDO PERFIL...`
+<br>
 
-**Estudante de programação | UNIVAP — Unidade Centro, SJC**
+# `mgsilvac01-sketch`
 
-`[ SOFTWARE ]` ` [ TECNOLOGIA ]` ` [ AVIAÇÃO ]`
+**DESENVOLVIMENTO DE SOFTWARE · AVIAÇÃO · BRASIL**
 
-<img src="https://img.shields.io/badge/STATUS-EM_APRENDIZADO-34452A?style=flat-square&logo=github&logoColor=C5D6A0" />
-<img src="https://img.shields.io/badge/FOCO-DESENVOLVIMENTO-1C261B?style=flat-square&logo=visualstudiocode&logoColor=9DBB75" />
+Estudante de programação na **UNIVAP — Unidade Centro**  
+São José dos Campos — SP 🇧🇷
+
+*Disciplina transforma planos em resultados.*
 
 </div>
 
 ---
 
-## `01 // IDENTIFICAÇÃO`
+## `01 // PERFIL`
 
-```text
-ÁREA       :: Desenvolvimento de software
-FORMAÇÃO   :: UNIVAP — Unidade Centro
-LOCAL      :: São José dos Campos, SP
-INTERESSES :: Programação • Aviação • Tecnologia militar
-OBJETIVO   :: Evoluir através de estudo e prática
-```
+Estudante de programação interessado em tecnologia, engenharia e aviação militar brasileira. Busco desenvolver uma base técnica sólida, evoluir com a prática e explorar, futuramente, aplicações de software na área aeronáutica.
 
-## `02 // ARSENAL TECNOLÓGICO`
+| INFORMAÇÃO | DETALHES |
+|---|---|
+| Área | Desenvolvimento de software |
+| Formação | UNIVAP — Unidade Centro |
+| Localização | São José dos Campos, SP |
+| Interesses | Programação, aviação e defesa |
+| Objetivo | Evolução contínua por meio do estudo |
+
+## `02 // TECNOLOGIAS`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,js&theme=dark" />
+### EM ESTUDO
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=c,cs&theme=dark" alt="C e C#" />
 
-<img src="https://img.shields.io/badge/C-Em%20estudo-526B3B?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-Em%20estudo-526B3B?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-Em%20estudo-526B3B?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-Em%20estudo-526B3B?style=flat-square&logo=javascript&logoColor=white" />
+<br>
+
+<img src="https://img.shields.io/badge/C-EM%20ESTUDO-34452A?style=flat-square&logo=c&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/C%23-EM%20ESTUDO-34452A?style=flat-square&logo=csharp&logoColor=FFFFFF" />
 
 </div>
 
 <details>
-<summary><code>VER FORMAÇÃO E APRENDIZADO ▸</code></summary>
+<summary><strong>Outras linguagens e tecnologias — carregando...</strong></summary>
 
 <br>
 
-Estudos de programação e outras disciplinas do currículo escolar da **UNIVAP — Unidade Centro, São José dos Campos**.
+```text
+C++             [ CARREGANDO... ]
+JavaScript      [ CARREGANDO... ]
+Python          [ CARREGANDO... ]
+Java            [ CARREGANDO... ]
+BANCO DE DADOS  [ CARREGANDO... ]
+NOVAS TECNOLOGIAS [ EM APRENDIZADO ]
+```
 
-Em constante desenvolvimento da lógica de programação, dos fundamentos de software e da capacidade de resolver problemas.
+Essas áreas representam conhecimentos a explorar ou aprofundar, não competências já dominadas.
 
 </details>
 
-## `03 // DIRETRIZES`
+## `03 // PLANO DE EVOLUÇÃO`
 
-- [ ] Aprimorar a lógica de programação.
+- [ ] Fortalecer a lógica de programação.
+- [ ] Aprofundar os fundamentos de C e C#.
 - [ ] Desenvolver projetos próprios.
-- [ ] Aprofundar os conhecimentos em software.
-- [ ] Explorar a interseção entre programação e aeronáutica.
+- [ ] Melhorar a organização e a qualidade do código.
+- [ ] Explorar aplicações de software na engenharia aeronáutica.
 
-## `04 // REGISTRO DE ATIVIDADE`
+## `04 // PRINCÍPIOS`
 
 <div align="center">
 
-<a href="https://github.com/mgsilvac01-sketch">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&title_color=9DBB75&icon_color=9DBB75&text_color=C5D6A0&bg_color=0B120C" alt="Estatísticas do GitHub" />
-</a>
+| DISCIPLINA | CONHECIMENTO | TECNOLOGIA | BRASIL |
+|:---:|:---:|:---:|:---:|
+| Foco no processo | Aprendizado contínuo | Soluções reais | Orgulho e propósito |
 
-<br>
+</div>
 
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
-<img src="https://img.shields.io/badge/ACESSAR_REPOSITÓRIOS-34452A?style=for-the-badge&logo=github&logoColor=E0E8D5" alt="Repositórios do GitHub" />
+## `05 // BASE DE OPERAÇÕES`
+
+<div align="center">
+
+<a href="https://github.com/mgsilvac01-sketch?tab=repositories">
+  <img src="https://img.shields.io/badge/ACESSAR_REPOSIT%C3%93RIOS-263729?style=for-the-badge&logo=github&logoColor=B8CE96" alt="Acessar repositórios" />
 </a>
 
 <br><br>
 
 ```text
-> MISSÃO: APRENDER
-> MÉTODO: ESTUDAR • PRATICAR • EVOLUIR
-> STATUS: EM ANDAMENTO_
+> MISSÃO  : APRENDER
+> MÉTODO  : ESTUDAR • PRATICAR • EVOLUIR
+> STATUS  : EM ANDAMENTO_
 ```
 
-<sub>DISCIPLINA NO PROCESSO. PRECISÃO NO CÓDIGO.</sub>
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=526B3B" />
+**TECNOLOGIA COM PROPÓSITO. BRASIL SEMPRE. 🇧🇷**
 
 </div>
