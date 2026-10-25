@@ -1,18 +1,16 @@
 
 <div align="center">
 
-<img src="./assets/banner-caca.gif" width="100%" alt="Caça militar em voo — aviação brasileira" />
+<img src=".Caça Gripen pixel art brasileiro.png" width="100%" alt="Caça militar em voo — aviação brasileira" />
 
 <br>
 
-# `mgsilvac01-sketch`
+# `MATHEUS GONÇALVES`
 
-**DESENVOLVIMENTO DE SOFTWARE · AVIAÇÃO · BRASIL**
+**TECNOLOGIA · AVIAÇÃO · PROGRAMAÇÃO**
 
 Estudante de programação na **UNIVAP — Unidade Centro**  
 São José dos Campos — SP 🇧🇷
-
-*Disciplina transforma planos em resultados.*
 
 </div>
 
@@ -27,8 +25,7 @@ Estudante de programação interessado em tecnologia, engenharia e aviação mil
 | Área | Desenvolvimento de software |
 | Formação | UNIVAP — Unidade Centro |
 | Localização | São José dos Campos, SP |
-| Interesses | Programação, aviação e defesa |
-| Objetivo | Evolução contínua por meio do estudo |
+| Interesses | Programação, aviação e engenharia |
 
 ## `02 // TECNOLOGIAS`
 
