@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="banner-aeronautica/banner-aeronautica.png"
-    alt="Banner de aeronáutica militar com caça em uma base aérea ao pôr do sol"
+    src="banner-aeronautica.png"
+    alt="Banner pixel art de aeronáutica militar brasileira"
     width="100%"
   />
 </p>
